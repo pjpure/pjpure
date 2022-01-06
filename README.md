@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjpure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjpure&show_icons=true&locale=en&layout=compact" alt="pjpure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pjpure&show_icons=true&locale=en" alt="pjpure" /></p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=pjpure)
 
